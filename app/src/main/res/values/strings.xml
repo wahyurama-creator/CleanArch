@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CleanArch</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_desc">Sign in to get all the feature of this app</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="not_have_account">Not have account? register now</string>
 </resources>

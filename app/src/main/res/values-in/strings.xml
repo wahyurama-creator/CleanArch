@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CleanArch</string>
+    <string name="sign_in">Masuk</string>
+    <string name="sign_in_desc">Masuk untuk bisa menikmati semua fitur yang ada</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Daftar</string>
+    <string name="not_have_account">Belum punya akun? daftar sekarang</string>
+</resources>
